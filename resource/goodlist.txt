@@ -1,0 +1,409 @@
+{
+  "availibaleGoodsList": [
+    {
+      "name": "erfan",
+      "cod": 7525339214351213546,
+      "amount": 3.0,
+      "buy": 120.0,
+      "sell": 100.0,
+      "kindOfAmount": "human",
+      "numberOfOrders": 7,
+      "amountOfOrders": 7.0,
+      "profitOfOrders": -140.0,
+      "sellOfOrders": 700.0
+    }
+  ],
+  "nonAvailibaleGoodsList": [
+    {
+      "name": "mohaamad hosein",
+      "cod": 9031106665017845719,
+      "amount": 0.0,
+      "buy": 12.0,
+      "sell": 10.0,
+      "kindOfAmount": "human",
+      "numberOfOrders": 24,
+      "amountOfOrders": 24.0,
+      "profitOfOrders": -48.0,
+      "sellOfOrders": 240.0
+    }
+  ],
+  "billsList": [
+    {
+      "customerCod": 101,
+      "amount": 1.0,
+      "goodCod": 9031106665017845719,
+      "date": "Jun 17, 2021, 2:16:59 PM",
+      "id": 7282992521607400771,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 9031106665017845719,
+      "date": "Jun 18, 2021, 12:20:58 AM",
+      "id": 55630939352666134,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 9031106665017845719,
+      "date": "Jun 18, 2021, 12:21:05 AM",
+      "id": 3335267535186122110,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 9031106665017845719,
+      "date": "Jun 18, 2021, 12:21:12 AM",
+      "id": 6084217255851509006,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 9031106665017845719,
+      "date": "Jun 18, 2021, 12:21:18 AM",
+      "id": 2486244122948937328,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 9031106665017845719,
+      "date": "Jun 18, 2021, 12:21:24 AM",
+      "id": 825444563286764265,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 9031106665017845719,
+      "date": "Jun 18, 2021, 12:21:29 AM",
+      "id": 2558924868256414686,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 9031106665017845719,
+      "date": "Jun 18, 2021, 12:21:35 AM",
+      "id": 5523022478941308521,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 9031106665017845719,
+      "date": "Jun 18, 2021, 12:21:41 AM",
+      "id": 1842404847962484846,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 9031106665017845719,
+      "date": "Jun 18, 2021, 12:21:47 AM",
+      "id": 1602110402359517543,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 9031106665017845719,
+      "date": "Jun 18, 2021, 12:21:52 AM",
+      "id": 3480326041962383361,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 9031106665017845719,
+      "date": "Jun 18, 2021, 12:21:57 AM",
+      "id": 2076368640283763640,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 9031106665017845719,
+      "date": "Jun 18, 2021, 12:22:02 AM",
+      "id": 5106555367016200312,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 7525339214351213546,
+      "date": "Jul 4, 2021, 3:56:33 PM",
+      "id": 2519181016040417184,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 7525339214351213546,
+      "date": "Jul 4, 2021, 3:56:58 PM",
+      "id": 4596356425716680877,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 7525339214351213546,
+      "date": "Jul 16, 2021, 1:51:21 PM",
+      "id": 1278960727947492728,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 7525339214351213546,
+      "date": "Jul 16, 2021, 1:51:27 PM",
+      "id": 1098659625380555370,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 7525339214351213546,
+      "date": "Jul 16, 2021, 1:51:33 PM",
+      "id": 5257000910213741153,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 7525339214351213546,
+      "date": "Jul 18, 2021, 12:36:30 PM",
+      "id": 2629930125514129025,
+      "checked": false
+    },
+    {
+      "customerCod": 1,
+      "amount": 1.0,
+      "goodCod": 7525339214351213546,
+      "date": "Jul 18, 2021, 12:36:46 PM",
+      "id": 7457514245287475282,
+      "checked": false
+    }
+  ],
+  "historyOrder": {},
+  "tabel": {
+    "goods": []
+  },
+  "customers": [
+    {
+      "id": 1,
+      "passworld": 1,
+      "bills": [
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 9031106665017845719,
+          "date": "Jun 18, 2021, 12:20:58 AM",
+          "id": 55630939352666134,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 9031106665017845719,
+          "date": "Jun 18, 2021, 12:21:05 AM",
+          "id": 3335267535186122110,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 9031106665017845719,
+          "date": "Jun 18, 2021, 12:21:12 AM",
+          "id": 6084217255851509006,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 9031106665017845719,
+          "date": "Jun 18, 2021, 12:21:18 AM",
+          "id": 2486244122948937328,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 9031106665017845719,
+          "date": "Jun 18, 2021, 12:21:24 AM",
+          "id": 825444563286764265,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 9031106665017845719,
+          "date": "Jun 18, 2021, 12:21:29 AM",
+          "id": 2558924868256414686,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 9031106665017845719,
+          "date": "Jun 18, 2021, 12:21:35 AM",
+          "id": 5523022478941308521,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 9031106665017845719,
+          "date": "Jun 18, 2021, 12:21:41 AM",
+          "id": 1842404847962484846,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 9031106665017845719,
+          "date": "Jun 18, 2021, 12:21:47 AM",
+          "id": 1602110402359517543,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 9031106665017845719,
+          "date": "Jun 18, 2021, 12:21:52 AM",
+          "id": 3480326041962383361,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 9031106665017845719,
+          "date": "Jun 18, 2021, 12:21:57 AM",
+          "id": 2076368640283763640,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 9031106665017845719,
+          "date": "Jun 18, 2021, 12:22:02 AM",
+          "id": 5106555367016200312,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 7525339214351213546,
+          "date": "Jul 4, 2021, 3:56:33 PM",
+          "id": 2519181016040417184,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 7525339214351213546,
+          "date": "Jul 4, 2021, 3:56:58 PM",
+          "id": 4596356425716680877,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 7525339214351213546,
+          "date": "Jul 16, 2021, 1:51:21 PM",
+          "id": 1278960727947492728,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 7525339214351213546,
+          "date": "Jul 16, 2021, 1:51:27 PM",
+          "id": 1098659625380555370,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 7525339214351213546,
+          "date": "Jul 16, 2021, 1:51:33 PM",
+          "id": 5257000910213741153,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 7525339214351213546,
+          "date": "Jul 18, 2021, 12:36:30 PM",
+          "id": 2629930125514129025,
+          "checked": false
+        },
+        {
+          "customerCod": 1,
+          "amount": 1.0,
+          "goodCod": 7525339214351213546,
+          "date": "Jul 18, 2021, 12:36:46 PM",
+          "id": 7457514245287475282,
+          "checked": false
+        }
+      ],
+      "money": 99242
+    },
+    {
+      "id": 113,
+      "passworld": 1,
+      "bills": [],
+      "money": 0
+    },
+    {
+      "id": 105,
+      "passworld": 1,
+      "bills": [],
+      "money": 0
+    },
+    {
+      "id": 101,
+      "passworld": 1,
+      "bills": [
+        {
+          "customerCod": 101,
+          "amount": 1.0,
+          "goodCod": 9031106665017845719,
+          "date": "Jun 17, 2021, 2:16:59 PM",
+          "id": 7282992521607400771,
+          "checked": false
+        }
+      ],
+      "money": 999990
+    },
+    {
+      "id": 97,
+      "passworld": 1,
+      "bills": [],
+      "money": 0
+    },
+    {
+      "id": 3166,
+      "passworld": 1,
+      "bills": [],
+      "money": 0
+    },
+    {
+      "id": 705698373,
+      "passworld": 1234,
+      "bills": [],
+      "money": 1000000
+    },
+    {
+      "id": 3115,
+      "passworld": 1,
+      "bills": [],
+      "money": 0
+    }
+  ],
+  "curentCoustomerId": 1
+}
